@@ -1,0 +1,6 @@
+# 自然码双拼方案配置
+
+schema:
+  schema_id: zrm_shuangpin
+  name: 自然码
+  version: ""

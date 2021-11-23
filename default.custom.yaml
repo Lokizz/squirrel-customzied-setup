@@ -1,0 +1,6 @@
+# 定义输入方案
+
+patch:
+  schema_list:
+    - schema: double_pinyin_plus
+    - schema: luna_pinyin_simp
